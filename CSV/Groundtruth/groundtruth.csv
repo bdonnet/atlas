@@ -1,0 +1,994 @@
+Site,Category,Country,fido2_usage_gt,label_source,source_number,date,comment,color
+http://spaceship.com/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+http://veridiumid.com/,Technology & Computing,Germany,['none'],external,2,17-10-25,security solutions,Red
+http://wallet.mintbase.xyz/account/new,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://101domain.com,Technology & Computing,United States of America,['password_only'],external,1,16-10-25,said to have fido2 but don't find it,Orange
+https://10dollar.ca/,Business,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://1password.com,Technology & Computing,United States of America,['password+otp'],external,1,16-10-25,said to have fido2 but don't find it,Yellow
+https://21unity.de/,Society,Germany,['none'],external,2,17-10-25,cloud solutions,Red
+https://500px.com/,Society,United States of America,"['password_only', 'webauthn']",external,5,26/10/2025,,Green
+https://abanca.com,Personal Finance,Spain,['password_only'],external,1,16-10-25,said to have fido2 but don't find it,Orange
+https://about.intastellaraccounts.com/,Technology & Computing,Denmark,['none'],external,4,20/10/25,no clues on login page,Red
+https://about.me,Society,United States of America,"['password_only', 'webauthn']",external,5,26/10/2025,don't find config page,Green
+https://about.riot.im/,Technology & Computing,United States of America,['password_only '],external,5,26/10/2025,,Orange
+https://actionnetwork.org/,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,5,26/10/2025,,Yellow
+https://activecollab.com/,Business,United States of America,"['password_only', 'webauthn', 'password+otp ']",external,5,26/10/2025,,Green
+https://adobe.com,Business,United States of America,"['password_only', 'password+otp']",external,1,16-10-25,said to have fido2 but don't find it,Yellow
+https://affirm.com,Personal Finance,Norway,"['full_fido2', 'password+otp']",external,1,16-10-25,,Green
+https://aflac.com,Health & Fitness,United States of America,['password_only'],external,1,16-10-25,said to have fido2 but don't find it,Orange
+https://ai.cloze.com/,Technology & Computing,United States of America,"['password_only', 'latent_support']",external,4,20/10/25,,Green
+https://airbrake.io,Technology & Computing,United States of America,['password_only '],external,5,24/10/2025,,Orange
+https://airnewzealand.co.nz,Travel,New Zealand,"['latent_support', 'password_only', 'password+otp']",external,1,16-10-25,latent otp,Green
+https://algolia.com,Technology & Computing,France,['password_only'],external,5,24/10/2025,,Orange
+https://amazon.com,Shopping,United States of America,"['password_only', 'password+otp', 'latent_support']",external,1,16-10-25,latent otp,Green
+https://anydesk.com/,Technology & Computing,United States of America,['none'],external,8,27/10/2025,,Red
+https://app.codeship.com/,Technology & Computing,United States of America,['password_only'],external,2,17-10-25,,Orange
+https://app.cryptolens.io/,Technology & Computing,Ireland,['password_only'],external,2,17-10-25,,Orange
+https://app.dext.com/,Technology & Computing,Ireland,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://app.documenso.com/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://app.sendloop.com,Technology & Computing,Finland,['password_only'],external,5,26/10/2025,,Orange
+https://app.terraform.io/,Technology & Computing,United States of America,['none'],external,5,26/10/2025,,Red
+https://appsignal.com,Technology & Computing,Netherlands,['password_only'],external,5,24/10/2025,,Orange
+https://arca.live/,Hobbies & Interests,United States of America,"['password_only', 'latent_support']",external,4,20/10/25,,Green
+https://arconnet.com/,Technology & Computing,India,['none'],external,8,27/10/2025,,Red
+https://arpnetworks.com/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://ashesofcreation.com,Hobbies & Interests,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://aternos.org/,Hobbies & Interests,Germany,['none'],external,5,24/10/2025,,Red
+https://auth0.com/,Technology & Computing,United States of America,"['password_only', 'full_fido2', 'password+otp']",external,2,17-10-25,,Green
+https://authtake.com/,Technology & Computing,Turkey,['none'],external,2,17-10-25,propose authentication slts so keywords present,Red
+https://awardwallet.com/,Personal Finance,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://aws.amazon.com/,Technology & Computing,United States of America,['password+otp'],external,2,17-10-25,,Yellow
+https://azura.xyz/,Personal Finance,United States of America,"['password+otp', 'latent_support']",external,4,20/10/25,,Green
+https://badoo.com,Society,Cyprus,['password+otp'],external,5,26/10/2025,,Yellow
+https://balsamiq.com,Technology & Computing,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://bandcamp.com,Arts & Entertainment,United States of America,['password_only '],external,5,24/10/2025,,Orange
+https://bank.shinhan.com,Personal Finance,South Korea,['password_only'],external,1,16-10-25,said to have fido2 but don't find it,Orange
+https://bankid.no/,Personal Finance,Norway,['none'],external,1,16-10-25,can't find login,Red
+https://bankofamerica.com,Personal Finance,United States of America,"['password_only', 'latent_support', 'password+otp']",external,1,16-10-25,latent otp,Green
+https://basecamp.com/,Society,United States of America,['none'],external,2,17-10-25,,Red
+https://bbva.com,Personal Finance,Spain,['none'],external,1,16-10-25,,Red
+https://bccard.com,Personal Finance,South Korea,"['password_only', 'password+otp']",external,1,16-10-25,said to have fido2 but don't find it,Yellow
+https://be.indeed.com/,Society,Norway,['password+otp'],external,4,20/10/25,,Yellow
+https://beacons.ai/,Society,United States of America,"['password_only', 'mixed']",external,2,17-10-25,,Green
+https://bestbuy.com,Shopping,United States of America,['full_fido2'],external,1,16-10-25,no clues on login page,Green
+https://binance.com,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://bitbay.market/,Personal Finance,United States of America,['none'],external,2,17-10-25,,Red
+https://bitcoin.de,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://bitflyer.com,Personal Finance,Japan,['password_only'],external,8,27/10/2025,,Orange
+https://bitly.com/,Society,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://bitstamp.net,Personal Finance,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://bittrex.com,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://bittrexglobal.com/,Personal Finance,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://bitwarden.com/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,2,17-10-25,,Green
+https://blacknight.com,Technology & Computing,Ireland,['password_only'],external,8,27/10/2025,,Orange
+https://blizzard.com,Hobbies & Interests,United States of America,"['password_only', 'password+otp']",external,5,24/10/2025,,Yellow
+https://blockchain.info/,Personal Finance,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://blueocean.law,"Law, Government & Politics",United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://bmw.be,Automotive,Germany,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://bolt.eu/,Travel,United States of America,['none'],external,4,20/10/25,,Red
+https://boursorama.com,Personal Finance,France,['password_only'],external,1,16-10-25,said to have fido2 but don't find it,Orange
+https://brave.com/,Technology & Computing,Iceland,['password_only'],external,8,27/10/2025,,Orange
+https://bridgecrest.com,Automotive,United States of America,['password_only'],external,1,16-10-25,said to have fido2 but don't find it,Orange
+https://btcpop.co/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://buddy.works,Technology & Computing,United States of America,"['full_fido2', 'password+otp']",external,5,24/10/2025,,Green
+https://bufferapp.com,Society,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://bugfender.com/,Technology & Computing,Germany,"['password_only', 'full_fido2']",external,2,17-10-25,,Green
+https://bugsnag.com,Technology & Computing,United States of America,['password+otp'],external,5,24/10/2025,,Yellow
+https://bugzilla.mozilla.org,Technology & Computing,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://buildkite.com,Technology & Computing,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://buycraft.net,Personal Finance,United Kingdom,['password_only'],external,8,27/10/2025,,Orange
+https://cambridge-housing.org,Real Estate,United States of America,['none'],external,1,16-10-25,,Red
+https://capecodfive.com,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://capsulecrm.com/,Technology & Computing,United States of America,['none'],external,5,26/10/2025,,Red
+https://cardpointers.com/,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://caremark.com,Health & Fitness,United States of America,['none'],external,1,16-10-25,said to have fido2 but don't find it,Red
+https://carnival.com,Travel,United States of America,['password_only'],external,1,16-10-25,said to have fido2 but don't find it,Orange
+https://carta.com/,Personal Finance,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://cash.app/,Personal Finance,United States of America,"['password+otp', 'latent_support']",external,4,20/10/25,,Green
+https://cash.me,Personal Finance,United States of America,['password+otp'],external,8,27/10/2025,,Yellow
+https://cdnsun.com,Technology & Computing,France,['password_only'],external,8,27/10/2025,,Orange
+https://cex.io/,Personal Finance,United States of America,"['password_only', 'webauthn', 'password+otp']",external,8,27/10/2025,,Green
+https://changelly.com/,Personal Finance,United States of America,['password+otp'],external,8,27/10/2025,,Yellow
+https://chekspend.com/,Personal Finance,United States of America,"['password+otp', 'full_fido2']",external,4,20/10/25,,Green
+https://circle.com,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://citi.com,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://citrix.com,Technology & Computing,United States of America,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://cloud.ca,Technology & Computing,Canada,['password_only'],external,5,24/10/2025,,Orange
+https://cloudflare.com,Technology & Computing,United States of America,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://cloudtrust.solutions/,Technology & Computing,Germany,['none'],external,2,17-10-25,,Red
+https://cobalt.io/,Technology & Computing,United States of America,"['password+otp', 'webauthn']",external,8,27/10/2025,,Green
+https://cogitogroup.net/,Technology & Computing,Australia,['none'],external,2,17-10-25,no clues on login page,Red
+https://coin.space/,Personal Finance,United States of America,['none'],external,8,27/10/2025,,Red
+https://coinapult.com,Personal Finance,United States of America,['none'],external,8,27/10/2025,,Red
+https://coinbase.com,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://coingate.com,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://coinify.com/merchants,Personal Finance,Iceland,['password_only'],external,8,27/10/2025,,Orange
+https://coinjar.com,Personal Finance,Australia,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://coinone.co.kr/,Personal Finance,United States of America,['unknown'],external,8,27/10/2025,,Grey
+https://coins.ph/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://cointracking.info/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://coinut.com/,Personal Finance,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://community.home-assistant.io/,Shopping,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://contabo.de/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://corbado.com,Technology & Computing,United States of America,['full_fido2'],external,1,16-10-25,,Green
+https://corp.moneyforward.com,Personal Finance,Japan,['none'],external,1,16-10-25,said to have fido2 but don't find it,Red
+https://crowdin.com/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://curity.io/,Technology & Computing,United States of America,"['password_only', 'latent_support']",external,2,17-10-25,,Green
+https://customer.io,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,5,26/10/2025,,Yellow
+https://customerping.ai/,Business,United States of America,['full_fido2'],external,4,20/10/25,,Green
+https://cutx.org,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://cvshealth.com,Health & Fitness,United States of America,['none'],external,1,16-10-25,no clues on login page,Red
+https://cyberark.com,Technology & Computing,United States of America,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://cystack.net/,Technology & Computing,United States of America,['none'],external,2,17-10-25,no clues on login page,Red
+https://dashlane.com,Technology & Computing,United States of America,"['password_only', 'password+otp', 'full_fido2']",external,1,16-10-25,,Green
+https://daylite.app,Business,Canada,['none'],external,1,16-10-25,no clues on login page,Red
+https://de.belden.com/,Technology & Computing,Germany,['password_only'],external,2,17-10-25,,Orange
+https://degoo.com/,Technology & Computing,Sweden,['password_only'],external,5,22/10/2025,,Orange
+https://delinea.com/,Technology & Computing,United States of America,['password_only'],external,2,17-10-25,,Orange
+https://deliveroo.com/,Food & Drink,United Kingdom,['webauthn'],external,8,27/10/2025,,Green
+https://deploybot.com/,Technology & Computing,United States of America,['password+otp'],external,5,26/10/2025,,Yellow
+https://detectify.com/,Technology & Computing,Sweden,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://devolutions.net,Technology & Computing,Canada,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://dinero.dk,Business,Denmark,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://directmailmac.com,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,5,26/10/2025,,Yellow
+https://directnic.com,Business,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://discord.com,Society,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://disk.yandex.com,Technology & Computing,Russia,"['password+otp', 'full_fido2']",external,5,22/10/2025,,Green
+https://disqus.com,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,5,26/10/2025,latent otp,Yellow
+https://dmarcian.com/,Technology & Computing,Réunion Island,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://dnsimple.com/,Technology & Computing,United States of America,"['password_only', 'latent_support']",external,2,17-10-25,,Green
+https://do.de,Technology & Computing,Germany,"['password_only', 'webauthn']",external,8,27/10/2025,don't find config page,Green
+https://docs.helloid.com/,Technology & Computing,United States of America,"['password+otp', 'password+fido']",external,2,17-10-25,,Yellow
+https://docusign.com,Technology & Computing,United States of America,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://domeneshop.no/,Business,Norway,['password_only'],external,8,27/10/2025,,Orange
+https://doubleoctopus.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,security solutions,Red
+https://dreamhost.com,Technology & Computing,United States of America,"['password_only', 'password+otp', 'password+fido']",external,8,27/10/2025,,Yellow
+https://drive.google.com,Technology & Computing,United States of America,"['password+otp', 'latent_support']",external,5,22/10/2025,,Green
+https://dropbox.com,Technology & Computing,United States of America,"['password_only', 'password+otp', 'password+fido']",external,1,16-10-25,,Yellow
+https://dsxinc.com/,Personal Finance,United States of America,['none'],external,2,17-10-25,,Red
+https://duke.edu/,Education,United States of America,['none'],external,4,20/10/25,,Red
+https://duo.com/,Technology & Computing,United States of America,"['password_only', 'password+otp', 'psswwrd+fido']",external,2,17-10-25,,Yellow
+https://dutchbros.com/,Food & Drink,United States of America,['none'],external,8,27/10/2025,,Red
+https://dynadot.com/,Business,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://dzen.ru/?yredirect=true,News,Russia,['none'],external,4,20/10/25,no clues on login page,Red
+https://easy.gr/,Technology & Computing,Germany,['password_only'],external,8,27/10/2025,,Orange
+https://easydns.com,Business,Canada,['password_only'],external,8,27/10/2025,,Orange
+https://ebay.be,Shopping,United States of America,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://edu.google.com/,Education,United States of America,"['password_only', 'password+otp', 'password+fido', 'latent_support']",external,2,17-10-25,,Green
+https://eduid.ch/,Education,Switzerland,"['password_only', 'latent_support']",external,4,20/10/25,,Green
+https://ee.co.uk/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://elements.envato.com/,Society,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://en.cmbc.com.cn,Personal Finance,Germany,"['password_only', 'password+otp']",external,1,16-10-25,otp only,Yellow
+https://enpass.io,Technology & Computing,Ireland,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://shop.esl.com,Hobbies & Interests,Norway,"['password_only', 'latent_support', 'password+otp']",external,4,20/10/25,,Green
+https://everbank.com,Personal Finance,United States of America,"['password_only', 'password+otp']",external,5,23/10/2025,,Yellow
+https://evernote.com,Technology & Computing,United States of America,"['password+otp']",external,5,22/10/2025,,Green
+https://exact.com/,Personal Finance,Netherlands,['password_only '],external,5,24/10/2025,,Yellow
+https://fabulous.com,Business,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://facebook.com,Society,United States of America,"['password_only', 'password+fido']",external,1,16-10-25,,Yellow
+https://fastmail.com,Technology & Computing,Australia,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://fedoraproject.org/,Technology & Computing,Germany,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://finom.co/,Personal Finance,United States of America,"['password_only', 'latent_support']",external,4,20/10/25,,Green
+https://fintual.cl/,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://fleep.io,Technology & Computing,Ireland,['password_only '],external,5,26/10/2025,,Orange
+https://fleeps.co,Travel,United States of America,['password+otp'],external,1,16-10-25,otp only with email or SMS,Yellow
+https://flipboard.com,Society,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://forge.laravel.com/,Technology & Computing,United States of America,['password_only '],external,5,24/10/2025,,Green
+https://forum.level1techs.com/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://forums.ankiweb.net/,Education,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://forwardemail.net/,Technology & Computing,Iceland,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://foursquare.com,Society,United States of America,"['password_only', 'webauthn']",external,5,26/10/2025,don't find config page,Green
+https://fr.appterix.eu/,Technology & Computing,Germany,['password_only'],external,2,17-10-25,,Orange
+https://fr.vanguard,Personal Finance,United States of America,['none'],external,1,16-10-25,,Red
+https://frontapp.com,Technology & Computing,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://fsdata.se/,Technology & Computing,Sweden,['password_only'],external,8,27/10/2025,,Orange
+https://fusionauth.io/,Technology & Computing,United States of America,"['password_only', 'latent_support']",external,4,20/10/25,,Green
+https://gaijin.net,Hobbies & Interests,Hungary,"['password_only', 'password+otp']",external,5,24/10/2025,latent otp,Yellow
+https://gamesplanet.com/,Hobbies & Interests,France,['password_only'],external,5,24/10/2025,,Orange
+https://gandi.net,Business,France,"['password_only', 'password+otp', 'password+fido']",external,8,27/10/2025,,Yellow
+https://gatehub.net,Personal Finance,United States of America,['password+otp '],external,8,27/10/2025,,Green
+https://gemini.com,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://getflywheel.com,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://getprismm.com/,Personal Finance,United States of America,['password_only'],external,4,20/10/25,,Orange
+https://github.com,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://gitlab.com,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://glauca.digital/,Technology & Computing,Norway,"['password_only', 'latent_support']",external,4,20/10/25,,Green
+https://glesys.com/,Technology & Computing,Sweden,['password_only'],external,8,27/10/2025,,Orange
+https://gluu.org/,Technology & Computing,United States of America,['none'],external,2,17-10-25,security solutions,Red
+https://goauthentik.io/,Technology & Computing,United States of America,['none'],external,8,27/10/2025,,Red
+https://gocardless.com/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://godaddy.com,Technology & Computing,United States of America,['password_only'],external,1,16-10-25,one call to nav.cred.get(),Orange
+https://gogetssl.com/,Technology & Computing,Germany,['password_only'],external,8,27/10/2025,,Orange
+https://google.com,Technology & Computing,United States of America,"['password+otp', 'latent_support']",external,1,16-10-25,,Green
+https://goteleport.com/,Technology & Computing,United States of America,"['password_only', 'password+fido', 'full_fido2']",external,2,17-10-25,,Green
+https://goto.com,Society,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://greenhost.net,Technology & Computing,Netherlands,['password_only'],external,8,27/10/2025,,Orange
+https://greenrocketsecurity.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,security solutions,Red
+https://gusto.com/,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://hancock.ink,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://heexy.org/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://helpmonks.com/,Society,Iceland,"['password_only', 'password+otp']",external,2,17-10-25,magic link be email,Yellow
+https://hideez.com/,Technology & Computing,Canada,['none'],external,2,17-10-25,authentication services,Red
+https://home.omg.lol,Society,United States of America,['full_fido2'],external,1,16-10-25,,Green
+https://hootsuite.com,Society,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://horizon.pics,Technology & Computing,United States of America,"['password_only', 'password+otp', 'full_fido2']",external,1,16-10-25,latent otp,Green
+https://hosthatch.com/,Technology & Computing,Iceland,['password_only'],external,8,27/10/2025,,Orange
+https://hosting.wedos.com,Technology & Computing,Norway,['password_only'],external,8,27/10/2025,,Orange
+https://hostiso.com/,Technology & Computing,United States of America,"['password_only', 'webauthn']",external,5,24/10/2025,don't find config page ,Green
+https://hostus.us,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://hyatt.com,Travel,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://ibm.com,Technology & Computing,Netherlands,"['password_only', 'password+otp', 'password+fido', 'latent_support']",external,1,16-10-25,everything is latent,Green
+https://id.auone.jp/,Technology & Computing,United States of America,['password_only'],external,4,20/10/25,,Orange
+https://id.moneyforward.com/,Personal Finance,Japan,"['password_only', 'latent_support']",external,4,20/10/25,,Green
+https://id.nintendo.net/,Hobbies & Interests,Netherlands,['password_only'],external,5,24/10/2025,,Orange
+https://id.smt.docomo.ne.jp/,Technology & Computing,Japan,"['password_only', 'mixed', 'latent_support']",external,4,20/10/25,,Green
+https://afasonline.com/,Personal Finance,Netherlands,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.ikea.com/be/fr/,Shopping,United States of America,"['password_only', 'password+otp']",external,1,16-10-25,otp only avec email,Yellow
+https://imgur.com,Society,United States of America,"['password_only', 'webauthn']",external,5,26/10/2025,don't find config page,Green
+https://imo.im,Society,United States of America,['none'],external,1,16-10-25,app to install,Red
+https://iniz.com,Technology & Computing,United States of America,"['password_only', 'webauthn', 'password+otp']",external,8,27/10/2025,,Green
+https://instacart.com,Shopping,United States of America,['password+otp'],external,1,16-10-25,maybe just otp,Yellow
+https://intelli.zoolz.com/,Technology & Computing,United States of America,"['password_only', 'webauthn']",external,5,22/10/2025,,Green
+https://intuit.com,Personal Finance,United States of America,"['password_only', 'password+otp', 'latent_support']",external,1,16-10-25,,Green
+https://ironvest.com/,Technology & Computing,United States of America,"['password_only', 'password+otp', 'mixed']",external,2,17-10-25,security solutions,Green
+https://itch.io/,Hobbies & Interests,United States of America,['password_only '],external,5,24/10/2025,,Orange
+https://iwantmyname.com/,Business,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://jetbrains.com,Technology & Computing,United States of America,['none'],external,5,26/10/2025,don't find it,Red
+https://joinmastodon.org/,Technology & Computing,United States of America,['none'],external,5,26/10/2025,,Red
+https://joker.com,Business,Germany,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://jumpcloud.com/,Technology & Computing,United States of America,['password_only'],external,2,17-10-25,,Orange
+https://justworks.com/,Personal Finance,United States of America,"['password_only', 'webauthn', 'password+otp']",external,5,24/10/2025,latent otp,Green
+https://kayak.com,Travel,United States of America,"['password+otp', 'latent_support']",external,1,16-10-25,,Green
+https://keepersecurity.com,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,1,16-10-25,maybe password+otp,Yellow
+https://kemba.org,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://kinsta.com,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://klemn.net/,Technology & Computing,Canada,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://koding.com,Technology & Computing,United States of America,['none'],external,5,26/10/2025,don't find it,Red
+https://koofr.eu,Technology & Computing,Germany,"['password+otp', 'password+fido']",external,5,22/10/2025,,Yellow
+https://laakari.chat/,Health & Fitness,Finland,['none'],external,4,20/10/25,,Red
+https://launchpad.net,Technology & Computing,United Kingdom,"['password_only', 'password+otp', 'password+fido2']",external,5,26/10/2025,,Yellow
+https://lgtm.lol/,Hobbies & Interests,United States of America,['full_fido2'],external,4,20/10/25,,Green
+https://lichess.org,Hobbies & Interests,France,"['password_only', 'password+otp']",external,5,24/10/2025,,Yellow
+https://line.me,Society,Japan,['none'],external,1,16-10-25,,Red
+https://linear.app/,Technology & Computing,United States of America,"['full_fido2', 'password+otp']",external,4,20/10/25,,Green
+https://link.com/,Personal Finance,Ireland,"['password+otp', 'latent_support']",external,4,20/10/25,,Green
+https://link3.to/,Technology & Computing,Canada,['none'],external,4,20/10/25,,Red
+https://linkedin.com,Society,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://lnk.bio,Technology & Computing,United States of America,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://lobste.rs/,Society,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://localbitcoins.com/,Personal Finance,Iceland,['password_only'],external,8,27/10/2025,,Orange
+https://locker.io,Technology & Computing,United States of America,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://login.gov,"Law, Government & Politics",United States of America,"['password_only', 'latent_support']",external,1,16-10-25,maybe latent otp,Green
+https://login.threatsim.com,Technology & Computing,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://lowes.com,Shopping,United States of America,"['password+otp', 'full_fido2']",external,1,16-10-25,,Green
+https://luma.com/,Society,United States of America,"['full_fido2', 'password+otp']",external,4,20/10/25,,Green
+https://magic.link/,Technology & Computing,United States of America,['password+otp'],external,2,17-10-25,security solutions,Yellow
+https://mail.aol.com,Technology & Computing,United States of America,['webauthn'],external,8,27/10/2025,,Green
+https://mail.de/,Technology & Computing,Germany,['webauthn'],external,8,27/10/2025,,Green
+https://mail.riseup.net,Technology & Computing,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://mail.tim.it/,Technology & Computing,Italy,['password_only'],external,8,27/10/2025,,Orange
+https://mail.yandex.com/,Technology & Computing,Russia,"['password+otp', 'webauthn']",external,8,27/10/2025,,Green
+https://mailchimp.com/,Society,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://mailfence.com/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://marshmallow-qa.com/,Society,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://mega.nz/,Technology & Computing,Luxembourg,['password_only pr password+otp'],external,5,22/10/2025,,Yellow
+https://mercari.com,Home & Garden,Japan,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://mercury.com/,Personal Finance,United States of America,"['password_only', 'password+otp', 'latent_support']",external,2,17-10-25,,Green
+https://meta.discourse.org/,Society,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://metaname.net/,Business,New Zealand,['password_only'],external,8,27/10/2025,,Orange
+https://microsoft.com,Technology & Computing,United States of America,"['password_only', 'password+otp', 'full_fido2']",external,1,16-10-25,,Green
+https://migros.ch,Shopping,Switzerland,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://minter.io,Technology & Computing,United States of America,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://mixi.co.jp,Society,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://money.yodlee.com/,Personal Finance,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://moneybird.com/,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://mxroute.com/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://my.cigna.com,Health & Fitness,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://my.gov.au,"Law, Government & Politics",Australia,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://my.gov.au/,"Law, Government & Politics",United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://my.konami.net/,Health & Fitness,Japan,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://mycurricula.com/,Education,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://mysites.guru/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://na.square-enix.com/,Hobbies & Interests,Japan,['password_only '],external,5,24/10/2025,,Yellow
+https://nescafe.com,Food & Drink,United States of America,"['password_only', 'password+otp']",external,1,16-10-25,otp only with email,Yellow
+https://netcup.eu/,Technology & Computing,Germany,['password_only'],external,8,27/10/2025,,Orange
+https://netfiles.com,Technology & Computing,Germany,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://netflix.com,Arts & Entertainment,United States of America,"['password_only', 'password+otp']",external,1,16-10-25,,Yellow
+https://newrelic.com,Technology & Computing,United States of America,['none'],external,5,26/10/2025,no clues on login page,Red
+https://nextdoor.com,Society,United States of America,"['password_only', 'webauthn']",external,5,26/10/2025,don't find config page,Green
+https://nfl.com,Sports,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://nhs.uk,Health & Fitness,United Kingdom,['password_only'],external,1,16-10-25,said to have fido2 but don't find it,Orange
+https://noez.de/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://noknok.com/,Technology & Computing,United States of America,"['password_only', 'latent_support']",external,2,17-10-25,,Green
+https://nulab.com/,Society,Japan,"['password_only', 'password+otp', 'latent_support']",external,2,17-10-25,,Green
+https://nvidia.com,Technology & Computing,United States of America,"['password_only', 'password+otp', 'password+fido', 'full_fido2']",external,1,16-10-25,all latent,Green
+https://okta.com,Technology & Computing,United States of America,"['password_only', 'password+otp', 'password+fido', 'latent_support']",external,1,16-10-25,,Green
+https://okx.com,Personal Finance,Japan,['full_fido2'],external,1,16-10-25,password_only nad/or password+otp maybe,Green
+https://onedrive.live.com,Technology & Computing,United States of America,"['password_only', 'password+otp', 'full_fido2']",external,5,22/10/2025,,Green
+https://onespan.com,Technology & Computing,United States of America,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://onlyfans.com,Non-Standard Content,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://opensrs.com,Business,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,latent otp,Yellow
+https://osu.ppy.sh,Hobbies & Interests,Australia,['password_only '],external,5,24/10/2025,,Orange
+https://otis.com,Home & Garden,United States of America,['password_only'],external,1,16-10-25,said to have fido2 but don't find it,Orange
+https://packagist.org,Technology & Computing,Czech Republic,['password_only '],external,5,26/10/2025,,Orange
+https://paidy.com/,Personal Finance,United States of America,['password_only'],external,4,20/10/25,,Orange
+https://panic.com/,Technology & Computing,United States of America,['none'],external,5,26/10/2025,,Red
+https://papertrailapp.com/,Technology & Computing,United States of America,['password_only '],external,5,26/10/2025,,Red
+https://partnersfcu.org/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://payfit.com,Personal Finance,France,['none'],external,1,16-10-25,no clues on login page,Red
+https://paypal.com,Personal Finance,United States of America,"['password+otp', 'latent_support']",external,1,16-10-25,,Green
+https://peerio.com,Technology & Computing,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://phacility.com/,Technology & Computing,United States of America,['password_only '],external,5,26/10/2025,,Red
+https://picarto.tv/,Arts & Entertainment,Germany,['password_only'],external,5,24/10/2025,,Orange
+https://pingidentity.com,Technology & Computing,United States of America,['full_fido2'],external,1,16-10-25,,Green
+https://playstation.com,Hobbies & Interests,Japan,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://plurilock.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,security solutions,Red
+https://plurk.com,Society,Taiwan,['password_only'],external,5,26/10/2025,,Orange
+https://pnc.com,Personal Finance,Netherlands,['password_only'],external,1,16-10-25,said to have fido2 but don't find it,Orange
+https://poblano.jp/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://pointhq.com/,Business,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://porkbun.com,Shopping,United States of America,"['password_only', 'mixed', 'full_fido2']",external,1,16-10-25,2FA keyword but can't access help page,Green
+https://posteo.de/,Technology & Computing,Germany,['password+otp'],external,2,17-10-25,U2F for 2FA,Yellow
+https://practiceprotect.com/,Technology & Computing,United States of America,['none'],external,4,20/10/25,,Red
+https://privacy.com/,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,8,27/10/2025,,Green
+https://product.gree.net/,Hobbies & Interests,Japan,['none'],external,5,24/10/2025,,Red
+https://proton.me,Technology & Computing,Switzerland,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://pypi.org/,Technology & Computing,United States of America,['password_only'],external,5,23/10/2025,,Orange
+https://qapital.com,Personal Finance,Sweden,"['password_only', 'latent_support']",external,1,16-10-25,says 2FA but don't find config page,Green
+https://quickbooks.intuit.com,Personal Finance,United States of America,"['password_only', 'password+otp']",external,1,16-10-25,said to have fido2 but don't find it,Yellow
+https://rad.dad/,Technology & Computing,United States of America,['full_fido2'],external,1,16-10-25,,Green
+https://raygun.com,Technology & Computing,New Zealand,"['password_only', 'password+otp']",external,5,23/10/2025,latent otp,Yellow
+https://rbcommons.com,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,5,23/10/2025,latent otp,Yellow
+https://rbltracker.com/,Technology & Computing,Canada,"['password_only', 'webauthn']",external,5,26/10/2025,don't find config page,Green
+https://reader.miniflux.app/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://readthedocs.org,Technology & Computing,United States of America,['password_only'],external,5,23/10/2025,,Orange
+https://realtimeregister.com/,Technology & Computing,Netherlands,['password_only '],external,2,17-10-25,,Red
+https://rebrandly.com,Business,Ireland,"['password_only', 'password+otp']",external,8,27/10/2025,latent otp,Yellow
+https://register4less.com/,Business,Canada,['password_only'],external,8,27/10/2025,,Orange
+https://registro.br,Business,Brazil,"['password_only', 'webauthn', 'password+otp']",external,8,27/10/2025,,Green
+https://report-uri.com,Technology & Computing,United States of America,['password_only'],external,5,23/10/2025,,Orange
+https://revbits.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,security solutions,Red
+https://ring.com/,Home & Garden,United States of America,"['password_only', 'latent_support']",external,4,20/10/25,,Green
+https://robertsspaceindustries.com/,Hobbies & Interests,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://robinhood.com,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://roblox.com,Hobbies & Interests,United States of America,"['password_only', 'latent_support', 'password+otp']",external,1,16-10-25,otp by email,Green
+https://rohos.com/,Technology & Computing,United States of America,['password+otp'],external,2,17-10-25,,Yellow
+https://rollbar.com/,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,5,23/10/2025,latent otp,Yellow
+https://rubygems.org,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,5,23/10/2025,,Green
+https://runbox.com/,Technology & Computing,Norway,['password_only'],external,2,17-10-25,,Orange
+https://runkeeper.com,Health & Fitness,Japan,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://runsignup.com/,Health & Fitness,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://safecu.org,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://salad.com/download,Technology & Computing,United States of America,"['password+otp','full_fido2']",external,4,20/10/25,,Yellow
+https://salesforce.com,Personal Finance,United States of America,"['password_only', 'password+otp', 'latent_support']",external,1,16-10-25,,Green
+https://samsung.com,Technology & Computing,South Korea,"['password_only', 'password+otp', 'latent_support']",external,1,16-10-25,,Green
+https://satoshitango.com/,Personal Finance,United States of America,['none'],external,8,27/10/2025,no clues on login page,Red
+https://saucelabs.com,Technology & Computing,United States of America,['none'],external,5,23/10/2025,,Red
+https://scc.kit.edu,Education,Germany,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://secfense.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,security solutions,Red
+https://secure.bankatfirst.com/,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://sendlinx.com/,Technology & Computing,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,don't fidn congif page,Green
+https://sentry.io,Technology & Computing,United States of America,['password_only '],external,5,26/10/2025,,Red
+https://server.nitrado.net/,Technology & Computing,Germany,['password_only'],external,8,27/10/2025,,Orange
+https://shakepay.com/,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://shop.app/,Shopping,Sweden,"['password+otp', 'full_fido2']",external,4,20/10/25,,Green
+https://shop.lululemon.com/,Shopping,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://shopify.com,Shopping,Canada,"['password_only', 'password+otp', 'full_fido2']",external,1,16-10-25,,Green
+https://sigmaaldrich.com,Science,Germany,['password_only'],external,1,16-10-25,said to have fido2 but don't find it,Orange
+https://singlekey-id.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,no clues on login page,Red
+https://sktelecom.com,Technology & Computing,South Korea,['none'],external,1,16-10-25,said to have fido2 but don't find it,Red
+https://slack.com/,Technology & Computing,United States of America,['password+otp'],external,5,26/10/2025,,Yellow
+https://smart-id.be/,Technology & Computing,United States of America,['none'],external,2,17-10-25,,Red
+https://softbank.jp,Personal Finance,Japan,['password_only'],external,1,16-10-25,said to have fido2 but don't find it,Orange
+https://soundcloud.com/,Arts & Entertainment,Germany,"['password_only', 'webauthn']",external,5,24/10/2025,,Green
+https://sourceforge.net/,Technology & Computing,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://sparkpost.com/,Technology & Computing,United States of America,"['password_only', 'webauthn']",external,5,26/10/2025,dont find config page,Green
+https://spideroak.com,Technology & Computing,United States of America,['none'],external,5,22/10/2025,,Red
+https://squareup.com/,Business,Norway,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://stackexchange.com/,Society,United States of America,"['password_only', 'webauthn']",external,5,26/10/2025,don't find config page,Green
+https://staging.authereum.com/,Technology & Computing,United States of America,"['password_only', 'latent_support']",external,2,17-10-25,,Green
+https://standardbank.co.za,Personal Finance,South Africa,['password_only'],external,1,16-10-25,said to have fido2 but don't find it,Orange
+https://standardnotes.com/,Technology & Computing,United States of America,"['password_only', 'password+fido']",external,2,17-10-25,,Yellow
+https://station-drivers.com/index.php,Technology & Computing,France,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://status.io/,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,5,26/10/2025,,Yellow
+https://statuscake.com/,Technology & Computing,United Kingdom,['password_only'],external,5,26/10/2025,,Orange
+https://stex.us.com/,Technology & Computing,Czech Republic,"['password_only', 'mixed']",external,2,17-10-25,,Green
+https://storedsafe.com/,Technology & Computing,Sweden,['password_only'],external,2,17-10-25,,Orange
+https://stripe.com,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://stripe.com/,Personal Finance,Ireland,"['full_fido2', 'password_only', 'password+otp']",external,2,17-10-25,,Green
+https://stuudium.com/,Education,Estonia,"['password+otp', 'full_fido2']",external,2,17-10-25,,Green
+https://surepassid.com/,Technology & Computing,Canada,"['password_only', 'full_fido2']",external,2,17-10-25,,Green
+https://surf.nl,Education,Netherlands,['none'],external,1,16-10-25,,Red
+https://surfshark.com/,Technology & Computing,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://swisspass.ch,Technology & Computing,Switzerland,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://synergywholesale.com/,Business,Australia,['password_only'],external,8,27/10/2025,,Orange
+https://synology.com,Technology & Computing,United States of America,"['password+otp', 'password+fido']",external,1,16-10-25,,Yellow
+https://t-mobile.com,Technology & Computing,United States of America,['password_only'],external,1,16-10-25,said to have fido2 but don't find it,Orange
+https://taiga.io,Technology & Computing,Norway,['password_only'],external,5,26/10/2025,,Orange
+https://tailscale.com,Technology & Computing,United States of America,['full_fido2'],external,1,16-10-25,,Green
+https://target.com,Shopping,United States of America,"['password_only', 'password+otp', 'full_fido2']",external,1,16-10-25,,Green
+https://techbookfest.org/,Shopping,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://tecnics.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,,Red
+https://tehama.io/,Technology & Computing,United States of America,['none'],external,2,17-10-25,,Red
+https://telstra.com,Personal Finance,Australia,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://tender.run/,Personal Finance,United States of America,['full_fido2'],external,4,20/10/25,,Green
+https://termius.com/,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://thehendrixjc.com,Travel,United States of America,['none'],external,1,16-10-25,said to have fido2 but don't find it,Red
+https://threatconnect.com/,Technology & Computing,United States of America,['password_only '],external,5,26/10/2025,,Orange
+https://thriva.co,Health & Fitness,United Kingdom,['password_only'],external,8,27/10/2025,,Orange
+https://tidal.com/,Arts & Entertainment,United States of America,"['password_only', 'webauthn']",external,5,24/10/2025,,Green
+https://tiktok.com,Arts & Entertainment,China,"['password_only', 'password+otp', 'latent_support']",external,1,16-10-25,,Green
+https://torguard.net/clientarea.php,Technology & Computing,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://toyota.be,Automotive,Belgium,['password_only'],external,1,16-10-25,said to have fido2 but don't find it,Orange
+https://tresorit.com/,Technology & Computing,United States of America,['password_only '],external,5,22/10/2025,,Green
+https://trimble.com,Technology & Computing,United States of America,"['password_only', 'password+otp', 'full_fido2']",external,1,16-10-25,,Green
+https://troweprice.com,Personal Finance,United States of America,['none'],external,1,16-10-25,no clues on login page,Red
+https://truu.ai/,Technology & Computing,United States of America,['password_only'],external,2,17-10-25,,Orange
+https://turbotax.intuit.com,Technology & Computing,United States of America,"['password_only', 'password+otp', 'latent_support']",external,1,16-10-25,,Green
+https://tuta.com/,Technology & Computing,Germany,"['password_only', 'password+otp']",external,2,17-10-25,U2F for 2FA,Yellow
+https://tutanota.com/,Technology & Computing,Germany,"['password_only', 'webauthn', 'password+otp', 'password+fido']",external,8,27/10/2025,,Green
+https://uber.com,Travel,United States of America,"['latent_support', 'password_only', 'password+otp']",external,1,16-10-25,,Green
+https://ulys.com/,Automotive,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://uninbox.com/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://uniregistry.com/,Business,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://unity.com/,Arts & Entertainment,United States of America,['password+otp'],external,2,17-10-25,,Yellow
+https://unity3d.com/,Technology & Computing,Netherlands,['none'],external,5,26/10/2025,no clues on login page,Red
+https://uphold.com/,Personal Finance,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://uplay.ubi.com/,Hobbies & Interests,France,['none'],external,5,24/10/2025,,Red
+https://uptimerobot.com,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,5,26/10/2025,latent otp,Yellow
+https://us.norton.com,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://usaa.com,Personal Finance,Netherlands,"['password_only', 'password+otp']",external,1,16-10-25,said to have fido2 but don't find it,Yellow
+https://userify.com/,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://usfcu.org,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://vanillaforums.com,Society,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://vaultvision.com/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://venmo.com,Personal Finance,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://ventraip.com.au,Technology & Computing,Australia,"['password_only', 'webauthn', 'password+otp']",external,8,27/10/2025,,Green
+https://ventraip.com.au/,Business,Australia,"['password_only', 'webauthn', 'password+otp']",external,8,27/10/2025,,Green
+https://vercel.com/,Technology & Computing,Canada,"['password+otp', 'full_fido2']",external,4,20/10/25,,Green
+https://verifythisseal.com/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://verizon.com,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,1,16-10-25,said to have fido2 but don't find it,Yellow
+https://versasec.com/,Technology & Computing,Sweden,['none'],external,2,17-10-25,security solutions,Red
+https://vimeo.com/,Arts & Entertainment,Norway,"['password_only', 'password+otp']",external,5,24/10/2025,latent otp,Yellow
+https://vip.symantec.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,security solutions,Red
+https://virginmedia.com,Arts & Entertainment,United Kingdom,"['password_only', 'password+otp', 'latent_support']",external,1,16-10-25,,Green
+https://visma.com,Business,Norway,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://vk.com/,Technology & Computing,Russia,"['password+otp', 'latent_usage']",external,4,20/10/25,,Green
+https://voura.com,Personal Finance,United States of America,['none'],external,1,16-10-25,,Red
+https://vystarcu.org/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://walmart.com,Shopping,Netherlands,"['password_only', 'password+otp', 'latent_support']",external,1,16-10-25,,Green
+https://warbyparker.com,Shopping,United States of America,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://wargaming.net/,Hobbies & Interests,Luxembourg,['password_only'],external,5,24/10/2025,,Orange
+https://wasabi.com/,Technology & Computing,United States of America,['password_only '],external,5,22/10/2025,,Green
+https://web.any.do/,Business,United States of America,['none'],external,8,27/10/2025,noclues on login page,Red
+https://whatsapp.com,Society,United States of America,"['password_only', 'password+otp', 'latent_support']",external,1,16-10-25,,Green
+https://wise.com,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,1,16-10-25,,Green
+https://wolt.com/,Food & Drink,United States of America,['password+otp'],external,8,27/10/2025,,Yellow
+https://wpengine.com/,Technology & Computing,United States of America,"['password_only', 'webauthn', 'password+otp']",external,8,27/10/2025,,Green
+https://wpmudev.com/,Technology & Computing,Australia,"['password_only', 'latent_support']",external,2,17-10-25,,Green
+https://www.007names.com,Business,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://www.20i.com,Business,United Kingdom,['password_only'],external,8,27/10/2025,,Orange
+https://www.34SP.com,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.53.com/,Personal Finance,United States of America,['password_only'],external,5,23/10/2025,,Orange
+https://www.a2hosting.com,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.above.com,Business,Australia,['password_only'],external,8,27/10/2025,,Orange
+https://www.acquia.com,Technology & Computing,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.actorsfcu.com/,Personal Finance,United States of America,"['password_only', 'webauthn']",external,5,22/10/2025,,Green
+https://www.addiko.hr/,Personal Finance,Germany,['password_only'],external,5,22/10/2025,,Orange
+https://www.affirm.com/,Personal Finance,Norway,"['password+otp', 'full_fido2']",external,4,20/10/25,,Green
+https://www.ah.nl/,Shopping,Netherlands,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.airbank.cz,Personal Finance,Czech Republic,['none'],external,5,22/10/2025,app to download,Red
+https://www.alliantcreditunion.org/,Personal Finance,United States of America,"['password_only', 'password+otp']",external,5,22/10/2025,,Yellow
+https://www.ally.com/,Personal Finance,United States of America,['password_only pr password+otp'],external,5,22/10/2025,,Yellow
+https://www.altoira.com,Personal Finance,United States of America,"['password_only', 'password+otp']",external,5,24/10/2025,latent otp,Yellow
+https://www.altra.org/,Personal Finance,United States of America,"['password_only', 'webauthn']",external,5,22/10/2025,,Green
+https://www.americafirst.com/,Personal Finance,United States of America,['password_only'],external,5,22/10/2025,maybe MFA but don't find config page,Orange
+https://www.americanexpress.com/,Personal Finance,Netherlands,['password_only'],external,5,22/10/2025,,Orange
+https://www.americaschristiancu.com,Personal Finance,United States of America,['password_only'],external,5,22/10/2025,,Orange
+https://www.andrewsfcu.org/,Personal Finance,United States of America,['password_only'],external,5,22/10/2025,maybe mfa,Orange
+https://www.ankama.com,Hobbies & Interests,United States of America,['password_only '],external,5,24/10/2025,,Yellow
+https://www.antradar.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,,Red
+https://www.anz.com.au/,Personal Finance,United States of America,['password_only'],external,5,22/10/2025,,Orange
+https://www.apple.com/,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,4,20/10/25,,Yellow
+https://www.appveyor.com,Technology & Computing,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://www.arbeitsagentur.de/,"Law, Government & Politics",Germany,"['password_only', 'password+otp', 'latent_support']",external,4,20/10/25,,Green
+https://www.armstrong.bank/,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.arpari.com/,Personal Finance,United States of America,"['password_only', 'latent_support']",external,4,20/10/25,,Green
+https://www.atlassian.com/,Society,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://www.authgear.com/,Technology & Computing,United States of America,"['password+otp', 'full_fido2']",external,4,20/10/25,,Green
+https://www.authsignal.com/,Technology & Computing,New Zealand,"['password_only', 'full_fido2']",external,2,17-10-25,,Green
+https://www.avanza.se/,Personal Finance,Sweden,"['password_only', 'latent_support', 'password+otp']",external,5,22/10/2025,,Green
+https://www.avatier.com/,Technology & Computing,United States of America,['password_only'],external,2,17-10-25,,Orange
+https://www.axiad.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,,Red
+https://www.babbel.com,Education,United States of America,['none'],external,5,26/10/2025,no clues on login page,Red
+https://www.backblaze.com,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,5,22/10/2025,,Yellow
+https://www.banking.barclaysus.com/,Personal Finance,United States of America,"['password_only', 'password+otp']",external,5,22/10/2025,,Yellow
+https://www.barclays.co.uk/,Personal Finance,United States of America,['password_only'],external,5,22/10/2025,,Orange
+https://www.bbt.com/,Personal Finance,United States of America,"['password_only', 'password+otp']",external,5,22/10/2025,,Yellow
+https://www.bca.co.id/en,Personal Finance,United States of America,['none'],external,5,22/10/2025,,Red
+https://www.becu.org/,Personal Finance,United States of America,['password_only'],external,5,22/10/2025,,Orange
+https://www.bethpagefcu.com/,Personal Finance,United States of America,['password_only'],external,5,22/10/2025,,Orange
+https://www.beyondidentity.com/,Technology & Computing,United States of America,['password_only'],external,2,17-10-25,maybe fido,Orange
+https://www.beyondtrust.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,,Red
+https://www.bglcorp.com/,Personal Finance,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://www.bhfcu.com,Personal Finance,United States of America,['password_only'],external,5,22/10/2025,,Orange
+https://www.biggerpockets.com,Society,United States of America,['password_only '],external,5,26/10/2025,,Yellow
+https://www.binarylane.com.au/,Technology & Computing,Australia,['password_only'],external,8,27/10/2025,,Orange
+https://www.bitbond.com,Personal Finance,United States of America,['none'],external,5,24/10/2025,,Red
+https://www.bitfinex.com,Personal Finance,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.bitgo.com,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,8,27/10/2025,,Green
+https://www.bitmex.com/,Personal Finance,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://www.blackdesertonline.com/,Hobbies & Interests,Netherlands,['password_only '],external,5,24/10/2025,,Red
+https://www.bladeandsoul.com/,Hobbies & Interests,South Korea,"['password_only', 'password+otp ']",external,5,24/10/2025,,Orange
+https://www.bluehost.com/,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.bmedonline.it,Personal Finance,United States of America,['password_only'],external,5,22/10/2025,,Orange
+https://www.bmo.com/,Personal Finance,Netherlands,"['password_only', 'password+otp']",external,5,22/10/2025,,Yellow
+https://www.bochk.com/,Personal Finance,Hong Kong,"['password_only', 'password+otp']",external,5,22/10/2025,not clear but both mentionned,Yellow
+https://www.bofifederalbank.com/,Personal Finance,United States of America,['password_only'],external,5,23/10/2025,,Orange
+https://www.bohemia.net/,Hobbies & Interests,Czech Republic,['password_only '],external,5,24/10/2025,,Yellow
+https://www.box.com/,Technology & Computing,United States of America,['password_only'],external,5,22/10/2025,,Orange
+https://www.breadfinancial.com/,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.btcbox.co.jp/,Personal Finance,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,katent otp,Yellow
+https://www.btcmarkets.net/,Personal Finance,Australia,"['password_only', 'password+otp']",external,8,27/10/2025,latent otp,Yellow
+https://www.caisse-epargne.fr/,Personal Finance,France,['none'],external,5,23/10/2025,no clues on login page,Red
+https://www.canva.com/,Hobbies & Interests,Australia,"['password_only', 'password+otp']",external,4,20/10/25,,Yellow
+https://www.capitalone.com/,Personal Finance,United States of America,"['password_only', 'webauthn', 'password+otp']",external,5,23/10/2025,don't find config page,Green
+https://www.cbq.qa/,Personal Finance,Qatar,['password_only'],external,5,23/10/2025,,Orange
+https://www.cbtnuggets.com/,Education,United States of America,['none'],external,5,26/10/2025,no clues on login page,Red
+https://www.cdbaby.com/,Arts & Entertainment,United States of America,['password_only '],external,5,24/10/2025,,Orange
+https://www.cdcfcu.com,Personal Finance,United States of America,['password_only'],external,5,23/10/2025,,Orange
+https://www.cdn77.com,Technology & Computing,Czech Republic,['password_only '],external,8,27/10/2025,,Yellow
+https://www.chase.com/,Personal Finance,United States of America,"['password_only', 'webauthn']",external,5,23/10/2025,otp or fido mfa (need to login for config),Green
+https://www.chimebank.com,Personal Finance,United States of America,['password+otp'],external,5,23/10/2025,,Yellow
+https://www.cibc.ca,Personal Finance,Canada,"['password_only', 'password+otp']",external,5,23/10/2025,,Yellow
+https://www.citizensbank.com,Personal Finance,United States of America,['password_only'],external,5,23/10/2025,,Orange
+https://www.clearscore.com,Personal Finance,United Kingdom,"['password_only', 'password+otp']",external,5,24/10/2025,latent otp,Yellow
+https://www.cloud66.com,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,5,24/10/2025,latent otp,Yellow
+https://www.cloudns.net/,Business,Germany,"['password_only', 'password+otp']",external,8,27/10/2025,latent otp,Yellow
+https://www.cloudways.com/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.cloze.com/,Technology & Computing,United States of America,"['password_only', 'latent_support', 'password+otp']",external,5,26/10/2025,latent otp,Green
+https://www.cmtelecom.com/,Technology & Computing,United States of America,['none'],external,5,24/10/2025,no clues on login page,Red
+https://www.codecademy.com/,Education,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.coinfloor.co.uk/,Personal Finance,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.coinspot.com.au/,Personal Finance,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.comdirect.de/,Personal Finance,Germany,['password_only'],external,5,23/10/2025,,Orange
+https://www.commbank.com.au/,Personal Finance,Norway,"['password_only', 'password+otp']",external,5,23/10/2025,,Yellow
+https://www.commerzbank.de/,Personal Finance,Germany,['password_only'],external,5,23/10/2025,can't translate site,Orange
+https://www.communityamerica.com/,Personal Finance,United States of America,['password_only'],external,5,23/10/2025,,Orange
+https://www.computerbase.de/,Technology & Computing,Germany,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.coursera.org/,Education,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.crashplan.com,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,5,22/10/2025,,Yellow
+https://www.crazydomains.com,Business,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,don't find config page,Green
+https://www.creditkarma.com,Personal Finance,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://www.crunchyroll.com/,Arts & Entertainment,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://www.ctl.io/appfog/,Technology & Computing,United States of America,['none'],external,5,24/10/2025,no clues on login page,Red
+https://www.cua.com.au/,Personal Finance,Norway,['password_only'],external,5,23/10/2025,,Orange
+https://www.cyon.ch,Technology & Computing,Switzerland,['password_only'],external,8,27/10/2025,,Orange
+https://www.daon.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,security solutions,Red
+https://www.dataguard.com/,Technology & Computing,Germany,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://www.datapacket.com/,Technology & Computing,Czech Republic,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.dbs.com.sg/,Personal Finance,Singapore,['password_only'],external,5,23/10/2025,,Orange
+https://www.dcu.org,Personal Finance,United States of America,"['password_only', 'latent_support']",external,5,23/10/2025,,Green
+https://www.dediserve.com,Technology & Computing,United States of America,['password_only '],external,8,27/10/2025,,Orange
+https://www.deezer.com,Arts & Entertainment,France,"['password_only', 'webauthn']",external,5,24/10/2025,,Green
+https://www.degiro.nl,Personal Finance,United States of America,"['password_only', 'password+otp']",external,5,24/10/2025,,Yellow
+https://www.dell.com/,Technology & Computing,United States of America,"['password_only', 'latent_support']",external,4,20/10/25,,Green
+https://www.deployhq.com/,Technology & Computing,United Kingdom,"['password_only', 'password+otp']",external,5,26/10/2025,latent otp ,Yellow
+https://www.descope.com/,Technology & Computing,Canada,['password+otp'],external,4,20/10/25,,Yellow
+https://www.desertfinancial.com,Personal Finance,Sweden,"['password_only', 'mixed']",external,5,23/10/2025,can set up 2FA but don't find config page,Green
+https://www.desjardins.com/,Personal Finance,Canada,"['password_only', 'password+otp']",external,5,23/10/2025,,Yellow
+https://www.deviantart.com,Society,United States of America,"['password_only', 'webauthn']",external,5,26/10/2025,don't find config page,Green
+https://www.df.eu,Business,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.digicert.com/,Technology & Computing,United States of America,['none'],external,8,27/10/2025,no clues on login page,Red
+https://www.digitalberry.fr/,Technology & Computing,France,['none'],external,2,17-10-25,,Red
+https://www.digitalocean.com/,Technology & Computing,United States of America,['password_only '],external,5,24/10/2025,,Orange
+https://www.discountbank.co.il,Personal Finance,Israel,['password_only'],external,5,23/10/2025,,Orange
+https://www.discover.com/,Personal Finance,United States of America,['password_only'],external,5,23/10/2025,,Orange
+https://www.disneyplus.com/,Arts & Entertainment,United States of America,['none'],external,5,24/10/2025,no clue son login page,Red
+https://www.dkb.de/,Personal Finance,United States of America,['password_only'],external,5,23/10/2025,,Orange
+https://www.dnb.no/,Personal Finance,Norway,['none'],external,5,23/10/2025,no clues on login page,Red
+https://www.dnsmadeeasy.com,Business,United States of America,['none'],external,8,27/10/2025,no clues on login page,Red
+https://www.docker.com/,Technology & Computing,United States of America,"['password_only', 'password+otp', 'webauthn']",external,5,26/10/2025,latent otp ,Green
+https://www.docomo.ne.jp/,Technology & Computing,Japan,['none'],external,1,16-10-25,no cmlues on login page,Red
+https://www.domains4bitcoins.com,Business,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.domaintools.com/,Business,United States of America,['none'],external,8,27/10/2025,no clues on login page,Red
+https://www.domeny.tv/en,Business,Poland,['password_only'],external,8,27/10/2025,,Orange
+https://www.dominodatalab.com/,Technology & Computing,United States of America,['none'],external,5,26/10/2025,,Red
+https://www.doodle.com,Technology & Computing,Switzerland,['password_only'],external,5,26/10/2025,,Orange
+https://www.drugs.com/,Health & Fitness,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.drupal.org/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,5,26/10/2025,<try other way> button,Green
+https://www.dutchbanglabank.com/,Personal Finance,Bangladesh,"['password_only', 'password+otp']",external,5,23/10/2025,,Yellow
+https://www.dwolla.com,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.dynu.com/,Business,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.ea.com/,Arts & Entertainment,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://www.easybank.at,Personal Finance,Australia,['none'],external,5,23/10/2025,can't translate correctly,Red
+https://www.egnyte.com/,Technology & Computing,Iceland,['password_only '],external,2,17-10-25,,Red
+https://www.elationhealth.com/,Health & Fitness,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.elderscrollsonline.com/,Hobbies & Interests,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://www.endomondo.com,Health & Fitness,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.engineyard.com,Technology & Computing,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://www.enom.com/,Business,Canada,['password_only'],external,8,27/10/2025,,Orange
+https://www.ensureendpoint.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,,Red
+https://www.entrust.com/,Technology & Computing,United States of America,"['password_only', 'webauthn']",external,2,17-10-25,only api calls,Green
+https://www.epicgames.com/,Arts & Entertainment,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://www.eset.com/,Technology & Computing,Slovakia,['password_only'],external,2,17-10-25,security solutions,Orange
+https://www.esri.com,Technology & Computing,United States of America,"['password_only', 'webauthn']",external,5,26/10/2025,,Green
+https://www.eurodns.com,Business,Luxembourg,['password_only'],external,8,27/10/2025,,Orange
+https://www.eveonline.com/,Arts & Entertainment,Iceland,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://www.eversource.com/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.ezeelogin.com/,Technology & Computing,United States of America,"['password_only', 'mixed']",external,2,17-10-25,,Green
+https://www.faceit.com,Hobbies & Interests,United States of America,"['password_only', 'password+otp']",external,5,24/10/2025,latent otp,Yellow
+https://www.fairfaxcounty.gov/,"Law, Government & Politics",United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.fairwinds.org,Personal Finance,United States of America,['password_only'],external,5,23/10/2025,,Orange
+https://www.fastly.com,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.files.com,Technology & Computing,United States of America,['unknpwn'],external,5,22/10/2025,,Green
+https://www.firstcommunity.com/,Personal Finance,United States of America,['password_only'],external,5,23/10/2025,,Orange
+https://www.firstrepublic.com/,Personal Finance,United States of America,"['password_only', 'webauthn', 'password+otp']",external,8,27/10/2025,,Green
+https://www.firsttechfed.com/,Personal Finance,United States of America,"['password_only', 'password+otp', 'latent_support']",external,8,27/10/2025,,Green
+https://www.floatplane.com/,Arts & Entertainment,Canada,['password_only'],external,5,24/10/2025,,Orange
+https://www.fogbugz.com/,Technology & Computing,United States of America,['none'],external,5,26/10/2025,,Red
+https://www.followmyhealth.com/,Health & Fitness,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.formx.ai/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.fortrabbit.com/,Technology & Computing,Germany,['password_only '],external,5,24/10/2025,,Orange
+https://www.fpl.com/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.freeagent.com,Personal Finance,United Kingdom,['password_only '],external,5,24/10/2025,,Yellow
+https://www.freeprintsapp.be/,Shopping,Ireland,['none'],external,4,20/10/25,,Red
+https://www.freetaxusa.com/,Personal Finance,United States of America,"['password_only', 'latent_support']",external,4,20/10/25,,Green
+https://www.freshbooks.com,Personal Finance,Canada,['password_only'],external,5,24/10/2025,,Orange
+https://www.fundingcircle.com/,Personal Finance,United Kingdom,"['password_only', 'password+otp']",external,5,24/10/2025,latent otp,Yellow
+https://www.gamefly.com/,Hobbies & Interests,United States of America,['password_only '],external,5,24/10/2025,,Yellow
+https://www.garena.sg/,Hobbies & Interests,Mexico,['password_only '],external,5,24/10/2025,,Orange
+https://www.garmin.com/,Health & Fitness,Norway,['password_only'],external,8,27/10/2025,,Orange
+https://www.geforce.com/,Hobbies & Interests,United States of America,"['full_fido2', 'password+otp']",external,5,24/10/2025,,Green
+https://www.geico.com/,Personal Finance,United States of America,['password_only '],external,5,24/10/2025,,Yellow
+https://www.georgiapower.com/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.getcloudapp.com/,Technology & Computing,United States of America,['password_only'],external,5,22/10/2025,,Orange
+https://www.globat.com/,Technology & Computing,United States of America,['none'],external,8,27/10/2025,no clues on login page,Red
+https://www.gls.de/,Personal Finance,Germany,['password_only'],external,8,27/10/2025,,Orange
+https://www.gmx.net/,Technology & Computing,Germany,['none'],external,8,27/10/2025,no clues on login page,Red
+https://www.gog.com,Hobbies & Interests,United States of America,['password+otp'],external,5,24/10/2025,,Yellow
+https://www.goodreads.com,Society,United States of America,"['password_only', 'webauthn']",external,5,26/10/2025,don't find config page,Green
+https://www.grab.com/sg/,Shopping,United States of America,"['password+otp', 'full_fido2']",external,4,20/10/25,,Green
+https://www.grubhub.com/,Food & Drink,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.guildwars2.com,Hobbies & Interests,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://www.gusto.com,Personal Finance,United States of America,"['password+otp', 'webauthn']",external,5,24/10/2025,,Green
+https://www.hackerone.com/,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://www.halifax.co.uk,Personal Finance,United States of America,['password_only '],external,8,27/10/2025,,Orange
+https://www.hancockwhitney.com/,Personal Finance,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://www.hanko.io/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,2,17-10-25,,Green
+https://www.hatena.ne.jp/,Technology & Computing,Japan,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.hcaptcha.com/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.he.net/,Business,United States of America,['none'],external,8,27/10/2025,,Red
+https://www.heartinternet.uk/,Business,United States of America,['password_only '],external,8,27/10/2025,,Yellow
+https://www.helsana.ch/fr/prives.html,Health & Fitness,,['password_only'],external,4,20/10/25,,Orange
+https://www.heroku.com/,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,5,24/10/2025,latent otp,Yellow
+https://www.hetzner.de/,Technology & Computing,Germany,['password_only'],external,8,27/10/2025,,Orange
+https://www.hexonet.net/,Business,Germany,['password+otp'],external,8,27/10/2025,,Yellow
+https://www.hextrust.com/,Personal Finance,United States of America,['password_only'],external,2,17-10-25,,Orange
+https://www.hey.com/,Society,United States of America,['password_only'],external,2,17-10-25,,Orange
+https://www.heylogin.com/,Technology & Computing,Germany,['full_fido2'],external,2,17-10-25,,Green
+https://www.hidglobal.com/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.high-mobility.com/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.hint.com,Health & Fitness,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.hitbtc.com/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.hl.co.uk/,Personal Finance,United Kingdom,"['password_only', 'password+otp']",external,5,24/10/2025,latent otp,Yellow
+https://www.holvi.com/,Personal Finance,Finland,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.hostens.com/,Technology & Computing,Sweden,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.hostnet.nl/,Technology & Computing,Netherlands,['password_only'],external,8,27/10/2025,,Orange
+https://www.hostpoint.ch/,Technology & Computing,Switzerland,['password_only'],external,8,27/10/2025,,Orange
+https://www.hotelscombined.fr/,Travel,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://www.hover.com/,Business,Canada,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.hubspot.com/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.humblebundle.com/,Hobbies & Interests,United States of America,['password_only '],external,5,24/10/2025,,Orange
+https://www.huntington.com,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.hushmail.com,Technology & Computing,Canada,['none'],external,8,27/10/2025,no clues on login page,Red
+https://www.hypr.com/,Technology & Computing,Canada,['full_fido2'],external,2,17-10-25,,Green
+https://www.iberiabank.com,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.icdsoft.com,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.icicibank.com,Personal Finance,United States of America,['password_only '],external,8,27/10/2025,,Orange
+https://www.icloud.com/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,2,17-10-25,,Green
+https://www.icuk.net,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.idrive.com,Technology & Computing,United States of America,"['password_only', 'webauthn']",external,5,22/10/2025,,Green
+https://www.ilex-international.com/,Technology & Computing,Norway,['none'],external,2,17-10-25,security solutions,Red
+https://www.imdb.com,Arts & Entertainment,United States of America,"['password_only', 'webauthn']",external,5,24/10/2025,no mention of fido2 in config,Green
+https://www.imgix.com/,Technology & Computing,United States of America,['password_only '],external,5,26/10/2025,,Orange
+https://www.incapsula.com/,Business,United States of America,['password_only '],external,8,27/10/2025,,Orange
+https://www.indiegala.com/,Hobbies & Interests,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://www.infoanywhere.com/,Technology & Computing,Canada,"['password_only', 'password+fido']",external,2,17-10-25,,Yellow
+https://www.infobip.com/,Technology & Computing,Croatia,['none'],external,5,26/10/2025,dont fin't it ,Red
+https://www.infomaniak.com/,Technology & Computing,Switzerland,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.ing.be,Personal Finance,United States of America,['unknown'],external,8,27/10/2025,itsme or card reader,Grey
+https://www.inleed.se,Technology & Computing,Sweden,['none'],external,8,27/10/2025,,Red
+https://www.inmotionhosting.com/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.instagram.com/,Society,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://www.intercede.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,auth service porviders,Red
+https://www.intesasanpaolo.com,Personal Finance,Italy,['password_only'],external,8,27/10/2025,,Orange
+https://www.inwx.com/en/,Business,Germany,['password_only'],external,8,27/10/2025,,Orange
+https://www.ionos.com/,Business,Canada,['password_only'],external,5,26/10/2025,,Orange
+https://www.iozoom.com,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.ips-hosting.com/,Technology & Computing,United States of America,"['password_only', 'full_fido2']",external,2,17-10-25,,Green
+https://www.irccloud.com,Technology & Computing,United States of America,['password_only '],external,5,26/10/2025,,Orange
+https://www.isaca.org,Education,United States of America,['password_only'],external,5,23/10/2025,,Orange
+https://www.isc2.org,Education,Netherlands,['password_only'],external,5,26/10/2025,,Orange
+https://www.isdecisions.com/,Technology & Computing,United States of America,['password_only'],external,2,17-10-25,,Orange
+https://www.itglue.com/,Technology & Computing,United States of America,['none'],external,5,26/10/2025,don't find it,Red
+https://www.jottacloud.com,Technology & Computing,Norway,['password_only'],external,5,22/10/2025,,Orange
+https://www.kakaocorp.com/page/,Society,South Korea,['none'],external,4,20/10/25,,Red
+https://www.key.com,Personal Finance,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,don't find config page,Green
+https://www.keytradebank.be/,Personal Finance,Belgium,['unknown'],external,2,17-10-25,self made passkey,Grey
+https://www.kik.com/,Technology & Computing,United States of America,['none'],external,5,26/10/2025,,Red
+https://www.kinguin.net,Hobbies & Interests,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://www.kiva.org,Personal Finance,United States of America,['password_only'],external,5,24/10/2025,,Green
+https://www.knownhost.com,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.kraken.com/,Personal Finance,Iceland,['password_only'],external,2,17-10-25,,Orange
+https://www.kualto.com,Personal Finance,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://www.labanquepostale.fr/,Personal Finance,France,['none'],external,8,27/10/2025,,Red
+https://www.larksuite.com/,Technology & Computing,United States of America,['password+otp'],external,4,20/10/25,,Yellow
+https://www.last.fm/,Arts & Entertainment,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://www.lcn.com,Technology & Computing,United Kingdom,['password_only'],external,8,27/10/2025,,Orange
+https://www.leaseweb.com/,Technology & Computing,Netherlands,['password_only'],external,5,24/10/2025,,Orange
+https://www.legalmail.it/,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.lendingclub.com/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.lgeccu.org/,Personal Finance,United States of America,['password_only '],external,8,27/10/2025,,Orange
+https://www.linkedin.com/,Society,United States of America,"['password_only', 'full_fido2']",external,2,17-10-25,,Green
+https://www.linksyssmartwifi.com,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.linode.com/,Technology & Computing,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://www.linxo.com/,Personal Finance,France,['none'],external,5,24/10/2025,,Red
+https://www.litebit.eu/,Personal Finance,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.livejournal.com,Society,Russia,['password_only'],external,5,26/10/2025,,Orange
+https://www.lloydsbank.com/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.loopia.se/,Business,Sweden,['password_only'],external,8,27/10/2025,,Orange
+https://www.luno.com/,Personal Finance,United States of America,"['password_only', 'latent_support']",external,4,20/10/25,,Green
+https://www.luxid.lu/fr/,Technology & Computing,Luxembourg,"['password_only', 'latent_support']",external,4,20/10/25,,Green
+https://www.macstadium.com/,Technology & Computing,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://www.mailgun.com,Technology & Computing,United States of America,['none'],external,5,26/10/2025,no clues on login page,Red
+https://www.mapbox.com,Technology & Computing,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://www.marcus.com/,Personal Finance,United States of America,['password_only '],external,8,27/10/2025,,Green
+https://www.markmonitor.com,Business,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.maxmind.com/,Technology & Computing,United States of America,"['password_only', 'password+otp', 'password+fido', '']",external,2,17-10-25,,Yellow
+https://www.mbna.ca,Personal Finance,Canada,['password_only '],external,8,27/10/2025,,Green
+https://www.medicalert.ca,Health & Fitness,Canada,['password_only'],external,8,27/10/2025,,Orange
+https://www.meetup.com,Society,United States of America,"['password_only', 'webauthn']",external,5,26/10/2025,don't find config page,Green
+https://www.mercadobitcoin.com.br/,Personal Finance,Brazil,['password_only'],external,8,27/10/2025,,Orange
+https://www.meridiancu.ca,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.metorik.com,Personal Finance,United States of America,"['password_only', 'password+otp']",external,5,24/10/2025,,Yellow
+https://www.metrological.com/,Technology & Computing,Germany,['none'],external,5,26/10/2025,,Red
+https://www.microcenter.com/,Shopping,United States of America,"['password_only', 'password+otp', 'full_fido2']",external,4,20/10/25,,Green
+https://www.migadu.com/,Technology & Computing,Netherlands,['password_only'],external,8,27/10/2025,,Orange
+https://www.mimecast.com/,Technology & Computing,Australia,['none'],external,8,27/10/2025,no clues on login page,Red
+https://www.minds.com/,Society,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://www.mini.com/,Automotive,Germany,"['password_only', 'latent_support']",external,4,20/10/25,,Green
+https://www.miniorange.com/,Technology & Computing,United States of America,['password_only'],external,2,17-10-25,,Orange
+https://www.mittwald.de/,Technology & Computing,Germany,['password_only'],external,8,27/10/2025,,Orange
+https://www.mojeid.cz/,Technology & Computing,Czech Republic,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://www.moneybird.com/,Personal Finance,Germany,"['password_only', 'full_fido2']",external,5,24/10/2025,,Green
+https://www.moniker.com/,Business,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.mtb.com/,Personal Finance,United States of America,"['webauthn', 'password_only ']",external,8,27/10/2025,,Green
+https://www.multcloud.com/home.html,Technology & Computing,United States of America,['password_only'],external,5,22/10/2025,,Orange
+https://www.mydomain.com/,Business,United States of America,['webauthn'],external,8,27/10/2025,,Green
+https://www.myfitnesspal.com,Health & Fitness,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.mynefcu.org/,Personal Finance,United States of America,['password_only '],external,8,27/10/2025,,Orange
+https://www.nab.com.au/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.name.com/,Business,United States of America,"['password_only', 'webauthn', 'password+otp']",external,8,27/10/2025,,Green
+https://www.namecheap.com/,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://www.namesilo.com/,Business,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.namespro.ca/,Business,Canada,['password_only'],external,8,27/10/2025,,Orange
+https://www.nasafcu.com/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.natwest.com/personal.ashx,Personal Finance,United States of America,['password+otp'],external,8,27/10/2025,,Yellow
+https://www.navyfederal.org/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,says also biometrics in config,Orange
+https://www.ncsecu.org/,Personal Finance,Netherlands,['password_only'],external,8,27/10/2025,,Orange
+https://www.nearlyfreespeech.net/,Business,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.netbk.co.jp,Personal Finance,Japan,['password+otp'],external,1,16-10-25,said to have fido2 but don't find it,Yellow
+https://www.neteller.com/,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,8,27/10/2025,,Green
+https://www.netfirms.com,Business,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.netim.com/,Business,United States of America,"['password_only', 'full_fido2']",external,8,27/10/2025,,Green
+https://www.newgrounds.com/,Society,Canada,['password_only '],external,5,26/10/2025,,Orange
+https://www.nexmo.com/,Technology & Computing,Ireland,['none'],external,5,26/10/2025,no clues on login page,Red
+https://www.nexusmods.com/,Hobbies & Interests,United States of America,"['password_only', 'password+otp ']",external,5,24/10/2025,,Orange
+https://www.nicehash.com/,Personal Finance,British Virgin Islands,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://www.nicorgas.com/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.nicovideo.jp/,Arts & Entertainment,United States of America,['password+otp'],external,5,24/10/2025,,Yellow
+https://www.nimbox.co.uk/,Technology & Computing,United Kingdom,"['password_only', 'password+otp']",external,5,22/10/2025,,Yellow
+https://www.nintendo.com/,Arts & Entertainment,United States of America,"['password+otp', 'full_fido2']",external,2,17-10-25,,Green
+https://www.noip.com/,Business,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,latent otp,Yellow
+https://www.nordea.se/,Personal Finance,Finland,['none'],external,8,27/10/2025,no lcues on login page,Red
+https://www.northwesternmutual.com/,Personal Finance,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://www.notion.com/,Business,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.oderland.se/,Technology & Computing,Sweden,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.one.com/,Technology & Computing,Denmark,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.oneidentity.com/,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://www.onelogin.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,security solutions,Red
+https://www.online.net/,Technology & Computing,France,['none'],external,8,27/10/2025,no clues on login page,Red
+https://www.onlinescoutmanager.co.uk/,Business,United States of America,"['password_only', 'latent_support']",external,4,20/10/25,,Green
+https://www.opalstack.com/,Technology & Computing,Iceland,"['password_only', 'password+otp', 'password+fido', 'latent_support']",external,2,17-10-25,,Green
+https://www.opendns.com/,Business,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.openprovider.co.uk,Business,United States of America,['none'],external,8,27/10/2025,,Red
+https://www.optus.com.au/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.oracle.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,no clues on login page,Red
+https://www.ory.sh/,Technology & Computing,United States of America,"['password_only', 'password+otp', 'latent_support']",external,2,17-10-25,,Green
+https://www.ovh.com/,Technology & Computing,Canada,['password_only '],external,5,26/10/2025,,Orange
+https://www.pairdomains.com/,Business,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.panterranetworks.com/,Technology & Computing,United States of America,['password_only'],external,5,22/10/2025,say MFA but don't find config page,Orange
+https://www.papermark.com/,Technology & Computing,Canada,"['password+otp', 'full_fido2']",external,4,20/10/25,,Green
+https://www.passbolt.com/,Technology & Computing,United States of America,['unknown'],external,2,17-10-25,,Grey
+https://www.passwordsafe.com/,Technology & Computing,Netherlands,['none'],external,2,17-10-25,,Red
+https://www.pastery.net/,Technology & Computing,Greece,"['password+otp', 'full_fido2']",external,4,20/10/25,,Green
+https://www.patelco.org/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.paychex.com,Personal Finance,United States of America,['none'],external,5,24/10/2025,no clues on login page,Red
+https://www.payoneer.com/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.paysafecard.com/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.pccasegear.com/,Shopping,Australia,['none'],external,5,26/10/2025,,Red
+https://www.pcfinancial.ca,Personal Finance,Canada,['password+otp'],external,8,27/10/2025,,Yellow
+https://www.pcloud.com,Technology & Computing,Switzerland,"['password_only', 'password+otp']",external,5,22/10/2025,,Yellow
+https://www.penfed.org/,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,8,27/10/2025,,Green
+https://www.pertuniti.com/,Society,United States of America,"['password_only', 'password+otp', 'password+fido']",external,2,17-10-25,,Yellow
+https://www.pge.com/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.pixiv.net/en/,Hobbies & Interests,Japan,"['password_only, 'full_fido2']",external,4,20/10/25,,Green
+https://www.planethoster.com/,Technology & Computing,Canada,['password_only'],external,8,27/10/2025,,Orange
+https://www.plastiq.com/,Personal Finance,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.plex.tv,Arts & Entertainment,United States of America,"['password_only', 'webauthn']",external,5,24/10/2025,,Green
+https://www.pnc.com/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.pobox.com/,Technology & Computing,Australia,['password_only '],external,8,27/10/2025,,Orange
+https://www.pocketsmith.com,Personal Finance,United States of America,"['password_only', 'password+otp']",external,5,24/10/2025,latent otp,Yellow
+https://www.pointsharp.com/,Technology & Computing,Germany,['none'],external,2,17-10-25,security solutions,Red
+https://www.poloniex.com/,Personal Finance,United States of America,"['password_only', 'latent_support']",external,4,20/10/25,,Green
+https://www.postbank.de/,Personal Finance,United States of America,['none'],external,8,27/10/2025,no clues on login oage,Red
+https://www.poste.it/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.powerstream.ca/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.preyproject.com,Technology & Computing,Iceland,['none'],external,8,27/10/2025,,Red
+https://www.privacyidea.org/,Technology & Computing,Germany,['none'],external,2,17-10-25,security solutions,Red
+https://www.progressive.com,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.pythonanywhere.com,Technology & Computing,United States of America,['password_only'],external,5,23/10/2025,,Orange
+https://www.qnap.com,Technology & Computing,United States of America,['password+otp'],external,5,22/10/2025,,Yellow
+https://www.qobuz.com,Arts & Entertainment,France,"['password_only', 'webauthn']",external,5,24/10/2025,,Green
+https://www.quora.com,Society,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://www.rackspace.com/,Technology & Computing,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://www.ramnode.com,Technology & Computing,Iceland,['password_only'],external,8,27/10/2025,,Orange
+https://www.ravelin.com/,Personal Finance,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.rb.cz/,Personal Finance,Czech Republic,['password+otp'],external,8,27/10/2025,,Yellow
+https://www.rbcroyalbank.com,Personal Finance,United States of America,['none'],external,8,27/10/2025,no clues on login page,Red
+https://www.rcdevs.com/,Technology & Computing,France,['none'],external,2,17-10-25,security solutions,Red
+https://www.rebel.com/,Business,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.recurly.com/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.reddit.com/,Society,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://www.redhat.com/,Technology & Computing,United States of America,['password_only'],external,2,17-10-25,,Orange
+https://www.regions.com,Personal Finance,United States of America,['none'],external,8,27/10/2025,no clues on login page,Red
+https://www.repacket.com/,Technology & Computing,United States of America,['password+otp'],external,1,16-10-25,said to have fido2 but don't find it,Yellow
+https://www.rocketmortgage.com/,Personal Finance,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.rockstargames.com/,Arts & Entertainment,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://www.roku.com,Arts & Entertainment,Norway,['password_only'],external,5,24/10/2025,,Orange
+https://www.rsa.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,security solutions,Red
+https://www.runcloud.io,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.runescape.com/,Hobbies & Interests,United Kingdom,['none'],external,5,24/10/2025,,Red
+https://www.runtastic.com,Health & Fitness,United States of America,['none'],external,8,27/10/2025,no clues on login page,Red
+https://www.runzero.com/,Technology & Computing,United States of America,['webauthn'],external,2,17-10-25,webauthn api call,Green
+https://www.scaleway.com,Technology & Computing,France,['password+otp'],external,5,26/10/2025,,Yellow
+https://www.scalr.com,Technology & Computing,United States of America,['none'],external,5,26/10/2025,,Red
+https://www.schoolsfirstfcu.org/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.scotiabank.com,Personal Finance,Canada,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.scryfall.com/,Hobbies & Interests,United States of America,['password+otp'],external,5,24/10/2025,,Yellow
+https://www.sdccu.com,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.seamless.com/,Food & Drink,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.secsign.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,security solutions,Red
+https://www.section.io,Technology & Computing,Norway,"['password+otp', 'webauthn']",external,8,27/10/2025,,Green
+https://www.secureauth.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,,Red
+https://www.segulink.com/,Society,Germany,"['password_only', 'password+otp', 'latent_support']",external,2,17-10-25,,Green
+https://www.sendquick.com/,Technology & Computing,United States of America,['password_only'],external,2,17-10-25,securiy solutions,Orange
+https://www.servus.ca,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.sffirecu.org,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.shoeboxed.com/,Personal Finance,United States of America,['password_only '],external,8,27/10/2025,,Green
+https://www.silverfort.com/,Technology & Computing,United States of America,['password_only'],external,2,17-10-25,,Orange
+https://www.silverstripe.org/,Technology & Computing,United States of America,['none'],external,2,17-10-25,,Red
+https://www.simplii.com,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.simply.com/,Technology & Computing,Denmark,['none'],external,4,20/10/25,,Red
+https://www.singlehop.com,Technology & Computing,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://www.siriusxm.com/,Arts & Entertainment,United States of America,"['password_only', 'password+otp', 'latent_support']",external,4,20/10/25,,Green
+https://www.site5.com/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.siteground.com,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.skrill.com/,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,2,17-10-25,,Green
+https://www.snapchat.com/,Society,United States of America,['none'],external,4,20/10/25,no clues on login page,Red
+https://www.sofi.com/,Personal Finance,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.sonic.com/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.sony.be/,Arts & Entertainment,United States of America,"['password_only', 'latent_support']",external,2,17-10-25,,Green
+https://www.sophos.com,Technology & Computing,United Kingdom,['none'],external,5,26/10/2025,no clues on login page,Red
+https://www.speedit.org/,Technology & Computing,Germany,['password_only'],external,8,27/10/2025,,Orange
+https://www.sprint.com/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.ssltrust.com.au/,Technology & Computing,Ukraine,"['password_only', 'password+otp']",external,5,26/10/2025,latent otp,Yellow
+https://www.stall-frei.de/,Sports,Germany,['password_only'],external,4,20/10/25,,Orange
+https://www.starbucks.com/,Food & Drink,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.stardock.com/,Hobbies & Interests,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://www.startmail.com,Technology & Computing,Netherlands,['password_only'],external,8,27/10/2025,,Orange
+https://www.statefarm.com/,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,8,27/10/2025,,Green
+https://www.strato.de/,Business,Germany,['password_only'],external,8,27/10/2025,,Orange
+https://www.strava.com,Health & Fitness,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.stripe.com/,Personal Finance,Ireland,"['full_fido2', 'password_only']",external,5,26/10/2025,,Green
+https://www.sugarsync.com/,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,5,22/10/2025,,Yellow
+https://www.sumologic.com,Technology & Computing,United States of America,['password_only'],external,5,26/10/2025,,Orange
+https://www.sumup.com/,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.suntrust.com/,Personal Finance,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.swica.ch/fr/prive,Health & Fitness,Switzerland,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.swtor.com/,Hobbies & Interests,United States of America,"['password_only', 'password+otp']",external,5,24/10/2025,,Yellow
+https://www.sync.com,Technology & Computing,Canada,"['password_only', 'password+otp']",external,5,22/10/2025,,Yellow
+https://www.syncfusion.com/,Business,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.synchronybank.com,Personal Finance,Netherlands,['password_only'],external,8,27/10/2025,,Orange
+https://www.synology.com/,Technology & Computing,United States of America,"['password_only', 'password+otp', 'latent_support']",external,5,22/10/2025,,Green
+https://www.szkb.ch/,Personal Finance,Switzerland,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.targobank.de/,Personal Finance,France,['password_only'],external,8,27/10/2025,,Orange
+https://www.taxact.com,Personal Finance,United States of America,"['password+otp', 'webauthn']",external,8,27/10/2025,,Green
+https://www.tdbank.com,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.tdcanadatrust.com,Personal Finance,Canada,['password+otp'],external,8,27/10/2025,,Yellow
+https://www.teamviewer.com/,Society,Germany,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://www.telekom.de/,Technology & Computing,United States of America,"['password_only', 'password+otp', 'latent_support']",external,4,20/10/25,,Green
+https://www.thelevelup.com,Personal Finance,United States of America,"['password_only', 'webauthn']",external,5,24/10/2025,,Green
+https://www.tiaa.org/pubbmoharrislic,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.tibia.com/,Hobbies & Interests,United States of America,['none'],external,5,24/10/2025,,Red
+https://www.ticketeer.se/,Business,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.ticketmaster.be/,Arts & Entertainment,United States of America,"['full_fido2', 'password_only']",external,4,20/10/25,,Green
+https://www.tilaa.com,Technology & Computing,Netherlands,"['password_only', 'password+otp']",external,5,26/10/2025,latent otp,Yellow
+https://www.toontownrewritten.com/,Hobbies & Interests,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://www.tovutilms.com/,Education,Canada,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://www.towerfcu.org/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.trademe.co.nz,Shopping,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.transip.nl/,Technology & Computing,Netherlands,['none'],external,8,27/10/2025,,Red
+https://www.triodos.de,Personal Finance,Ireland,['password_only'],external,8,27/10/2025,,Orange
+https://www.trionworlds.com/en/,Hobbies & Interests,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://www.tripletex.no/,Personal Finance,Ireland,"['password+otp', 'full_fido2']",external,4,20/10/25,,Green
+https://www.trusona.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,,Red
+https://www.trustworthy.com/,Technology & Computing,United States of America,"['password_only', 'latent_support']",external,2,17-10-25,,Green
+https://www.tsb.co.uk,Personal Finance,United Kingdom,['none'],external,8,27/10/2025,no clues on login page,Red
+https://www.turnkey.com/,Technology & Computing,United States of America,['password+otp'],external,4,20/10/25,,Yellow
+https://www.twilio.com/,Technology & Computing,United States of America,['none'],external,5,26/10/2025,no clues on login page,Red
+https://www.twitch.tv/,Society,United States of America,"['password_only', 'password+otp']",external,2,17-10-25,,Yellow
+https://www.ubank.com.au/,Personal Finance,Australia,['none'],external,4,20/10/25,no clues on login page,Red
+https://www.ud-reselling.com/en/,Business,Germany,['password_only'],external,8,27/10/2025,,Orange
+https://www.uk2.net/,Business,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.ukraine.com.ua/,Technology & Computing,Ukraine,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.umpquabank.com/,Personal Finance,Sweden,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.unifyfcu.com,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.unionbank.com/,Personal Finance,United States of America,['password_only '],external,8,27/10/2025,,Orange
+https://www.united-domains.de/,Business,Germany,['password_only'],external,8,27/10/2025,,Orange
+https://www.uniteddomains.com/,Business,Germany,"['password_only', 'password+otp']",external,8,27/10/2025,latent otp,Yellow
+https://www.upcloud.com,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,5,26/10/2025,latent otp,Yellow
+https://www.valic.com/,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.versio.nl,Technology & Computing,Netherlands,['none'],external,8,27/10/2025,no clues on login page,Red
+https://www.viadeo.com,Society,France,['password_only'],external,5,26/10/2025,,Orange
+https://www.virustotal.com,Technology & Computing,United States of America,['none'],external,5,26/10/2025,,Red
+https://www.vitality.co.uk,Personal Finance,United States of America,['password_only '],external,8,27/10/2025,,Orange
+https://www.vmware.com/,Technology & Computing,United States of America,"['password_only', 'latent_support']",external,2,17-10-25,,Green
+https://www.vpsserver.com/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.vultr.com,Technology & Computing,United States of America,['password_only'],external,5,26/10/2025,said to have 2FA & yubikey but don't find config page,Orange
+https://www.walgreens.com,Shopping,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.wallix.com/,Technology & Computing,France,['none'],external,2,17-10-25,,Red
+https://www.warbyparker.com,Shopping,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.waveapps.com,Personal Finance,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.wayfair.com,Shopping,United States of America,"['password+otp', 'webauthn']",external,8,27/10/2025,,Green
+https://www.webmd.com,Health & Fitness,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.webroot.com,Technology & Computing,Canada,['none'],external,5,26/10/2025,,Red
+https://www.webull.com.au/,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.weebly.com,Technology & Computing,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.wellsfargo.com/,Personal Finance,United States of America,"['password_only', 'full_fido2']",external,4,20/10/25,,Green
+https://www.wescom.org/,Personal Finance,Netherlands,['password_only'],external,8,27/10/2025,,Orange
+https://www.withings.com/,Health & Fitness,France,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.wix.com/,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,8,27/10/2025,,Yellow
+https://www.wizard101.com,Hobbies & Interests,United States of America,['password_only'],external,5,24/10/2025,,Orange
+https://www.woltlab.com/,Technology & Computing,Germany,['password_only'],external,5,26/10/2025,,Orange
+https://www.wscu.com/,Personal Finance,United States of America,['password+otp'],external,8,27/10/2025,,Yellow
+https://www.xero.com/,Personal Finance,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.xonasystems.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,security soltuions,Red
+https://www.youneedabudget.com/,Personal Finance,United States of America,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.yubico.com/,Technology & Computing,United States of America,['none'],external,2,17-10-25,security solutions,Red
+https://www.zalando.com/,Shopping,Germany,"['password_only', 'webauthn']",external,8,27/10/2025,,Green
+https://www.zappos.com/,Shopping,United States of America,['password+otp'],external,8,27/10/2025,,Yellow
+https://www.zazzle.com,Shopping,United States of America,"['password_only', 'password+otp', 'webauthn']",external,8,27/10/2025,,Green
+https://www.zetta.net/,Technology & Computing,United States of America,['password_only'],external,5,22/10/2025,,Orange
+https://www.zimbra.com/,Technology & Computing,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://www.zocdoc.com/,Health & Fitness,United States of America,['password+otp'],external,8,27/10/2025,,Yellow
+https://www.zomato.com,Food & Drink,India,['none'],external,8,27/10/2025,,Red
+https://www.zooplus.com/,Shopping,United States of America,['password_only'],external,8,27/10/2025,,Orange
+https://x.com,Society,United States of America,"['password_only', 'latent_support']",external,1,16-10-25,,Green
+https://xtncognitivesecurity.com/,Technology & Computing,Italy,['password_only'],external,2,17-10-25,security solutions,Orange
+https://yahoo.com,Technology & Computing,United States of America,['password+otp'],external,1,16-10-25,said to have fido2 but don't find it,Yellow
+https://zapier.com,Technology & Computing,United States of America,"['password_only', 'password+otp']",external,5,26/10/2025,latent otp,Yellow
+https://zitadel.com/,Technology & Computing,Switzerland,"['password_only', 'latent_support']",external,4,20/10/25,,Green
+https://zoho.com,Technology & Computing,United States of America,"['password_only', 'password+otp', 'latent_support']",external,1,16-10-25,,Green
+https://zondacrypto.com/,Personal Finance,United States of America,"['password+otp', 'webauthn']",external,8,27/10/2025,,Green

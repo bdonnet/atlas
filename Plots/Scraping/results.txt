@@ -1,0 +1,218 @@
+ANALYSIS RESULTS FROM FILE: ../CSV/Scraping/FILTERED/1M_filtered_scraping_03-27.csv
+
+======================================================================
+BEFORE FILTERING
+======================================================================
+
+========================================
+LOGIN NAVIGATION
+========================================
+TOTAL number of websites: 422037
+
+LOGIN success and information
+-----------------------------------------
+Metric           | Raw Value | Proportion
+-----------------------------------------
+login_successful |    221035 |     52.37%
+cross_scope      |     30649 |      7.26%
+login_ui_forced  |    133511 |     31.63%
+
+
+Authentication PHASE stats
+-----------------------------------
+Metric     | Raw Value | Proportion
+-----------------------------------
+stabilized |    233322 |     55.28%
+
+
+========================================
+CLASSES, CATEGORIES AND PAGE REPARTITION
+========================================
+
+Authentication class frequency
+---------------------------------------------
+Metric               | Raw Value | Proportion
+---------------------------------------------
+none                 |    223917 |     53.06%
+password_only        |    169461 |     40.15%
+latent_support       |     17452 |      4.14%
+error                |      7850 |      1.86%
+storage              |      1863 |      0.44%
+password+fido        |       421 |      0.10%
+fido_only_ui         |       400 |      0.09%
+full_fido2           |       361 |      0.09%
+webauthn             |       286 |      0.07%
+unknown_cross_origin |        17 |      0.00%
+latent_usage         |         9 |      0.00%
+
+
+Authentication categories frequency
+------------------------------------------
+Metric            | Raw Value | Proportion
+------------------------------------------
+None/Error        |    231767 |     54.92%
+Password-Based    |    169461 |     40.15%
+Fido2-Native      |     20371 |      4.83%
+Password-Extended |       421 |      0.10%
+Unknown           |        17 |      0.00%
+
+
+PAGE CLASSIFICATION repartition
+------------------------------------------
+Metric            | Raw Value | Proportion
+------------------------------------------
+antibot_challenge |       177 |      0.04%
+cmp_blocking      |     43057 |     10.20%
+content_page      |     36445 |      8.64%
+interstitial      |      4354 |      1.03%
+real_login_page   |    333468 |     79.01%
+sso_provider      |       573 |      0.14%
+unknown           |      3963 |      0.94%
+
+
+========================================
+FILTERING STEP
+========================================
+
+Filtering step statistics
+-------------------------------------------------------
+Metric                         | Raw Value | Proportion
+-------------------------------------------------------
+headless_browser_blocking      |         0 |      0.00%
+anti_bot_challenge_blocking    |         0 |      0.00%
+canonical_closed_shadow_dom    |         0 |      0.00%
+js_orchestrated_auth_ui        |         0 |      0.00%
+iframe_same_origin_opaque      |         0 |      0.00%
+stalled_auth_ui                |         0 |      0.00%
+password_without_observability |         0 |      0.00%
+total                          |         0 |      0.00%
+
+
+======================================================================
+AFTER FILTERING
+======================================================================
+
+Analysis for the 422037 filtered websites.
+
+========================================
+LOGIN NAVIGATION
+========================================
+TOTAL number of websites: 422037
+
+LOGIN success and information
+-----------------------------------------
+Metric           | Raw Value | Proportion
+-----------------------------------------
+login_successful |    221035 |     52.37%
+cross_scope      |     30649 |      7.26%
+login_ui_forced  |    133511 |     31.63%
+
+
+Authentication PHASE stats
+-----------------------------------
+Metric     | Raw Value | Proportion
+-----------------------------------
+stabilized |    233322 |     55.28%
+
+
+========================================
+ETHIC ANALYSIS
+========================================
+Mean number of clicks: 1.5
+Mean time processing: 57.66 seconds
+Plus see plotted CDFs.
+
+
+========================================
+SIGNALS ANALYSIS (grouped per category)
+========================================
+
+PASSWORD AUTHENTICATION signals frequency
+-----------------------------------------------------
+Metric                       | Raw Value | Proportion
+-----------------------------------------------------
+password_input_present       |    184887 |     43.81%
+password_input_in_shadow_dom |         0 |      0.00%
+network_password             |       293 |      0.07%
+
+
+FIDO2 / WEBAUTHN signals frequency
+-------------------------------------------------------
+Metric                         | Raw Value | Proportion
+-------------------------------------------------------
+network_webauthn               |         6 |      0.00%
+credentials_api_used           |      1062 |      0.25%
+passkey_setup_endpoint_present |         0 |      0.00%
+auth_js_supports_passkey       |     19763 |      4.68%
+
+
+UI / STORAGE hints frequency
+-----------------------------------------------------
+Metric                       | Raw Value | Proportion
+-----------------------------------------------------
+ui_webauthn_keywords_present |      2408 |      0.57%
+shadow_dom_webauthn          |         0 |      0.00%
+local_storage_contains_fido  |      4135 |      0.98%
+
+
+FEDCM signals frequency
+------------------------------------------------
+Metric                  | Raw Value | Proportion
+------------------------------------------------
+fedcm_present           |         0 |      0.00%
+fedcm_provider          |         0 |      0.00%
+fido2_indirect_possible |         0 |      0.00%
+
+
+OTP / FLOW COMPLEXITY signals frequency
+-----------------------------------------------
+Metric                 | Raw Value | Proportion
+-----------------------------------------------
+multistep_login        |      1152 |      0.27%
+otp_indicators_present |         0 |      0.00%
+
+
+========================================
+CLASSES, CATEGORIES AND PAGE REPARTITION
+========================================
+
+Authentication class frequency
+---------------------------------------------
+Metric               | Raw Value | Proportion
+---------------------------------------------
+none                 |    223917 |     53.06%
+password_only        |    169461 |     40.15%
+latent_support       |     17452 |      4.14%
+error                |      7850 |      1.86%
+storage              |      1863 |      0.44%
+password+fido        |       421 |      0.10%
+fido_only_ui         |       400 |      0.09%
+full_fido2           |       361 |      0.09%
+webauthn             |       286 |      0.07%
+unknown_cross_origin |        17 |      0.00%
+latent_usage         |         9 |      0.00%
+
+
+Authentication categories frequency
+------------------------------------------
+Metric            | Raw Value | Proportion
+------------------------------------------
+None/Error        |    231767 |     54.92%
+Password-Based    |    169461 |     40.15%
+Fido2-Native      |     20371 |      4.83%
+Password-Extended |       421 |      0.10%
+Unknown           |        17 |      0.00%
+
+
+PAGE CLASSIFICATION repartition
+------------------------------------------
+Metric            | Raw Value | Proportion
+------------------------------------------
+antibot_challenge |       177 |      0.04%
+cmp_blocking      |     43057 |     10.20%
+content_page      |     36445 |      8.64%
+interstitial      |      4354 |      1.03%
+real_login_page   |    333468 |     79.01%
+sso_provider      |       573 |      0.14%
+unknown           |      3963 |      0.94%
+

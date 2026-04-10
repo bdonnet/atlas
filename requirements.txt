@@ -1,0 +1,24 @@
+# ATLAS - Authentication TechnoLogy AnalysiS
+# Python dependencies (third-party only; standard library modules are excluded)
+
+# Web scraping & browser automation
+playwright
+playwright-stealth
+
+# Data manipulation & analysis
+pandas
+pandarallel
+numpy
+scipy
+
+# Network & DNS utilities
+requests
+dnspython
+python-whois
+shodan
+
+# Progress bar
+alive-progress
+
+# Configuration / serialization
+pyyaml
