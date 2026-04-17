@@ -20,14 +20,40 @@ def challenge_capture_analysis(file):
     df_prepared = _prepare_scatter_dataframe(clean_df)
 
     ############################################################################
-    # Step 1: Dump cleaned dataframe to CSV file
+    # Step 2: Dump cleaned dataframe to CSV file (jointplot)
     ############################################################################
     logger.info("Dump...")
     df_prepared.to_csv(CHALLENGE_PLOT+"df_challenge_fido.csv")
 
+    ############################################################################
+    # Step 3: Reuse of challenges (table + histogram)
+    ###########################################################################
+    # Population 1 : all succeeded capture
+    N_all   = len(clean_df)
+    _print_reuse_metrics(clean_df, "All successful captures", N_all)
+
+    # Population 2 : at least 2 successfull captures
+    multi_df = clean_df[clean_df['unique_challenge_count'] >= 2].copy()
+    N_multi  = len(multi_df)
+    _print_reuse_metrics(multi_df, "Sites with >= 2 unique challenges", N_multi)
+
+    multi_df.to_csv(CHALLENGE_PLOT+"df_histogram_challenge_reuse.csv")
+
 # ---------------------------------------------------------------------------
 # Private helpers
 # ---------------------------------------------------------------------------
+
+def _print_reuse_metrics(df, label, n):
+    reuse   = df['challenge_reuse_detected'].sum()
+    exact   = (df['min_hamming_distance'] == 0).sum()
+    ts      = df['timestamp_pattern_detected'].sum()
+
+    print(f"\n{'='*55}")
+    print(f"  {label}  (N = {n})")
+    print(f"{'='*55}")
+    print(f"  Challenge reuse detected : {reuse:>4}  ({reuse/n*100:.2f}%)")
+    print(f"  Exact reuse (Hamming=0)  : {exact:>4}  ({exact/n*100:.2f}%)")
+    print(f"  Timestamp pattern        : {ts:>4}  ({ts/n*100:.2f}%)")
 
 def _clean_fido2_dataframe(df, column_name="captures"):
     """
